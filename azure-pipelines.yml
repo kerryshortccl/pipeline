@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  subscription: Visual Studio Enterprise Subscription – MPN(b998c4ee-a3ca-42b2-b118-93313b6ccfde)
+  subscription: kerryshortcclconnection
   resourceGroup: resourcegroup-tfstate
   storageAccount: sakstfstate
   container: tfstate
